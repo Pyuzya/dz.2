@@ -1,0 +1,22 @@
+body {
+  background-color: antiquewhite;
+}
+
+ul {
+  list-style: none;
+}
+
+.card-body-stars {
+  width: 600px;
+  height: 300px;
+  margin: 0px auto;
+}
+
+.card-body-stars ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-body-stars li {
+  margin: 10px 0px;
+}
