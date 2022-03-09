@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import ListingModel from '../models/ListingModel';
 import data from '../etsy.json'
 import Item from './Item';
